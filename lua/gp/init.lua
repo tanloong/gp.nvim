@@ -356,6 +356,7 @@ _H.create_popup = function(buf, title, size_func, opts, style)
 		border = border,
 		title = title,
 		title_pos = "center",
+		zindex = 49,
 	}
 
 	-- open the window and return the buffer
